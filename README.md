@@ -1,1 +1,1 @@
-# repositorio-practica
+intento de realizar una analisis genomico repositorio-practica
